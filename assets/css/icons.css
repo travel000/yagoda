@@ -1,0 +1,68 @@
+.icon {
+    background: url("../images/icons.png");
+    display: inline-block;
+}
+
+.icon.icon_address {
+    width: 16px; height: 20px;
+    background-position: -166px -120px;
+}
+
+.icon.icon_arrow_pinc {
+    width: 57px; height: 12px;
+    background-position: -204px -160px;
+}
+
+.icon.icon_arrow_white {
+    width: 28px; height: 12px;
+    background-position: -170px -204px;
+}
+
+.icon.icon_care {
+    width: 60px; height: 59px;
+    background-position: -86px -120px;
+}
+
+.icon.icon_community {
+    width: 64px; height: 64px;
+    background-position: -120px -10px;
+}
+
+.icon.icon_education {
+    width: 60px; height: 56px;
+    background-position: -204px -10px;
+}
+.icon.icon_events {
+    width: 56px; height: 64px;
+    background-position: -10px -120px;
+}
+
+.icon.icon_fb {
+    width: 20px; height: 20px;
+    background-position: -10px -204px;
+}
+
+.icon.icon_instagram {
+    width: 20px; height: 20px;
+    background-position: -50px -204px;
+}
+
+.icon.icon_marker {
+    width: 36px; height: 54px;
+    background-position: -204px -86px;
+}
+
+.icon.icon_phone {
+    width: 20px; height: 20px;
+    background-position: -90px -204px;
+}
+
+.icon.icon_play {
+    width: 90px; height: 90px;
+    background-position: -10px -10px;
+}
+
+.icon.icon_whats_app {
+    width: 20px; height: 20px;
+    background-position: -130px -204px;
+}
